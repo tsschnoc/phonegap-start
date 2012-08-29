@@ -32,6 +32,8 @@
         alert("Error processing SQL: "+err);
     }
 
+
+
     // Transaction success callback
     //
     function successCB() {
